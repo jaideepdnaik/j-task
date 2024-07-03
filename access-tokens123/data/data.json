@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "password1"
+    },
+    {
+      "id": 2,
+      "username": "user",
+      "email": "user@gmail.com",
+      "password": "password2"
+    }
+  ],
+  "tokens": {
+    "fb147bcf7aa31d55a0853e47c3daa8385ea76965b4ed4215d3c6d895729b36c6c0687f63cc33d3b25f24babfb49f1879": {
+      "id": 1,
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "password1"
+    },
+    "a0cdee80d4ddc0bc4a69c61084d0307d120fe53c1dafa880581994c018156ba832007f363d5b8c8afe564913dce1c3d8": {
+      "id": 1,
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "password1"
+    }
+  }
+}
